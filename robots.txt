@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://sooq-alkuwait-pro.pages.dev/sitemap.xml
+Sitemap: https://kuwait-pro.github.io/sooq-alkuwait-pro/sitemap.xml
+
