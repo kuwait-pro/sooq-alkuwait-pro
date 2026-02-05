@@ -9,7 +9,7 @@ import xml.sax.saxutils as xml_escape
 # تعديل اسم المشروع ليطابق Cloudflare
 # ==========================================
 PROJECT_NAME = "sooq-alkuwait-pro"
-CLOUDFLARE_URL = "https://sooq-alkuwait-pro.pages.dev"
+CLOUDFLARE_URL = "https://kuwait-pro.github.io/sooq-alkuwait-pro"
 INPUT_JSON = "products_data_cleaned.json"
 OUTPUT_DIR = "dist_sooq"
 GA_ID = "G-ENJFWMT5T0"
@@ -764,3 +764,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
